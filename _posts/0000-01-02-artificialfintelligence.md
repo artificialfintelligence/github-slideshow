@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+“Everything is Sacred, Nothing is Serious."
 Use the left arrow to go back!
